@@ -18,6 +18,7 @@ The high number of the low_risk population shows a precision of 0.99 with a sens
 
 ### SMOTE Oversampling:
 ![image](Credit_Risk_Analysis/SMOTE_Oversampling.PNG)
+
 Balanced Accuracy Score: 0.63
 The high_risk precision is .01, recall score of 0.57 and an F1 score of 0.02
 The high number of the low_risk population shows a precision of 1.0 with a sensitivity of 0.68 and an F1 score of 0.81
@@ -26,6 +27,7 @@ The high number of the low_risk population shows a precision of 1.0 with a sensi
 ### Cluster Centroids Undersampling:
 
 ![image](Credit_Risk_Analysis/Cluster_Centroids_Resampler.PNG)
+
 Balanced Accuracy Score: 0.63
 The high_risk precision is .01, recall score of 0.57 and an F1 score of 0.02
 The high number of the low_risk population shows a precision of 1.0 with a sensitivity of 0.68 and an F1 score of 0.81
