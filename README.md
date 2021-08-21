@@ -8,6 +8,7 @@ The purpose of this is to use the credit card credit dataset from LendingClub an
 # Results
 
 ### Naive Random Oversampling:
+![image](Credit_Risk_Analysis/Naive_Random_Oversampling.png)
 Balanced Accuracy Score: 0.67
 The high_risk precision is .01, recall score of 0.67 and an F1 score of 0.02
 The high number of the low_risk population shows a precision of 0.99 with a sensitivity of 0.67 and an F1 score of 0.80
